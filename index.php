@@ -66,6 +66,7 @@ if (isset($_GET["Complete"])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Todo List</title>
+    <link rel="icon" type="image/x-icon" href="to-do-list.png">
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -99,3 +100,4 @@ if (isset($_GET["Complete"])) {
     </div>
 </body>
 </html>
+
